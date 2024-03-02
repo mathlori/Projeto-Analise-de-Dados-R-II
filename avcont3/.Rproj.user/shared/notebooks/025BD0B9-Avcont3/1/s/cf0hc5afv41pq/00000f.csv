@@ -1,0 +1,5 @@
+"0","cat(""A Variância Populacional da base de dados real é: "", sprintf(""%.2f"", var(base2) * (length(base2) - 1) / length(base2)))"
+"1","A Variância Populacional da base de dados real é: "
+"1"," "
+"1","0.11"
+"0","# A linguagem R não possui a função voltada para a variância populacional."

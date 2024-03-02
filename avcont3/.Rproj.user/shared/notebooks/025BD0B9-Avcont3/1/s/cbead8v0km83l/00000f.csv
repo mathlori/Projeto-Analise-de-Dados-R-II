@@ -1,0 +1,5 @@
+"0","cat(""A Variância Amostral da base de dados simulada é:"", sprintf(""%.2f"","
+"0","var(base1)))"
+"1","A Variância Amostral da base de dados simulada é:"
+"1"," "
+"1","338.50"

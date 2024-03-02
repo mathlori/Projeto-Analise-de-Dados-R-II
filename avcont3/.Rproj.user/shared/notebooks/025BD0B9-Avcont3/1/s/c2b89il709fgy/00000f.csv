@@ -1,0 +1,4 @@
+"0","cat(""A Variância Populacional da base de dados real é: "", sprintf(""%.2f"", varPopul(base2)))"
+"1","A Variância Populacional da base de dados real é: "
+"1"," "
+"1","0.11"

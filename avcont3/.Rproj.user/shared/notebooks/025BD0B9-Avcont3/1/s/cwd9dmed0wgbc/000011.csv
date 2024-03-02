@@ -1,0 +1,1 @@
+"0","hist(base1,col = ""blue"", border = ""black"", main = ""Histograma da base de dados simulada"", xlab = ""Valores"", ylab = ""Frequência"")"

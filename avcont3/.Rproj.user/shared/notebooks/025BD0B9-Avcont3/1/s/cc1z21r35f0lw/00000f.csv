@@ -1,0 +1,4 @@
+"0","cat(""A média da base de dados real é: "", sprintf(""%.2f"", media(base2)))"
+"1","A média da base de dados real é: "
+"1"," "
+"1","0.47"

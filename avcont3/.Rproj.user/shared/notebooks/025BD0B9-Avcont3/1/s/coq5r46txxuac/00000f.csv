@@ -1,0 +1,5 @@
+"0","cat(""O desvio padrão populacional da base de dados real é: "", sprintf(""%.2f"",sd(base2) * sqrt(length(base2) - 1) / sqrt(length(base2)) ))"
+"1","O desvio padrão populacional da base de dados real é: "
+"1"," "
+"1","0.33"
+"0","# O R não possui nenhuma função pronta para desvio padrão populacional"

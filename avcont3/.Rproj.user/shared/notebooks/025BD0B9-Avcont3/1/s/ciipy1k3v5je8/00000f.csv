@@ -1,0 +1,4 @@
+"0","cat(""O desvio padrão amostral da base de dados simulada é: "", sprintf(""%.2f"", sd(base1)))"
+"1","O desvio padrão amostral da base de dados simulada é: "
+"1"," "
+"1","18.40"

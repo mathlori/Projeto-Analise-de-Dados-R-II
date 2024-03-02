@@ -1,0 +1,4 @@
+"0","cat(""O desvio padrão populacional da base de dados real é: "", sprintf(""%.2f"", desvPopul(base2)))"
+"1","O desvio padrão populacional da base de dados real é: "
+"1"," "
+"1","17.77"

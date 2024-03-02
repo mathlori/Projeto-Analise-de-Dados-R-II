@@ -1,0 +1,5 @@
+"0","cat(""A média da base de dados simulada é:"", sprintf(""%.2f"","
+"0","mean(base1)))"
+"1","A média da base de dados simulada é:"
+"1"," "
+"1","40.07"
